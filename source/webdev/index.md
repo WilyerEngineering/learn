@@ -4,7 +4,7 @@ title: Web Developement 101
 # Introductory Guide to learn Web Development
 
 # 101 to 2.0 Full Guide (Beta Version)
-Last Updated on : Aug 14, 2020 (Under Development and writing Phase)
+Last Updated on : Sep 09, 2020 (Under Development and writing Phase)
 
 **Disclaimer:** This document has highly practical information and resources for you to learn about web using modern Project Based Learning(PBL) approch.
 This document is not for exam clearing or passing point of view it is crafted for those who want to learn about the web using Agile Learning and hands-on projects. 
