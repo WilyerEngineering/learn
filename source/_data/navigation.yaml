@@ -1,0 +1,38 @@
+{
+  "logo": {
+    "text": "Wilyer Learning Docs",
+    "type": "link",
+    "path": ""
+  },
+  "main": [
+  
+      {
+      "text": "API Basics",
+      "type": "label",
+"children": [
+    {
+      "text": "Instagram API Project",
+      "type": "link",
+      "path": "api/index.html"
+
+    },
+    ]
+    }
+    ,
+
+    {
+      "text": "WebDev 101",
+      "type": "label",
+"children": [
+   {
+      "text": "Web Development 101",
+      "type": "link",
+      "path": "webdev/index.html"
+    }
+    ]
+    }
+    
+   
+   
+  ]
+}
