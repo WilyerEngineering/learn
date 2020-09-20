@@ -16,6 +16,8 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-server": "^0.2.1",
+    "hexo-tag-codepen": "^0.2.2",
+    "hexo-tag-youtube-responsive": "^0.4.2",
     "hexo-theme-doc": "^1.0.0-rc.1"
   }
 }

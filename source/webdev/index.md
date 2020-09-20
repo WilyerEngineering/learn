@@ -3,11 +3,17 @@ title: Web Developement 101
 
 # Introductory Guide to learn Web Development
 
-# 101 to 2.0 Full Guide (Beta Version)
-Last Updated on : Sep 09, 2020 (Under Development and writing Phase)
+# 101 to 2.0 Full Guide (Beta Version) 🏗️ 
+Last Updated on : Sep 20, 2020 (Under Development 🚧 and writing ✍️ Phase)
 
 **Disclaimer:** This document has highly practical information and resources for you to learn about web using modern Project Based Learning(PBL) approch.
 This document is not for exam clearing or passing point of view it is crafted for those who want to learn about the web using Agile Learning and hands-on projects. 
+**🎯🎯The goal of this document is to show you what are major components of building a Website and How you can learn to build something of your own and put it on Internet.**
+
+> We have tried to keep it simple and start from the basics.
+> **We have also tried our best to simplify the simple terms and we assume you know nothing and want to learn from scratch**
+> Because we all have faced the problem of not 😕 understanding the definition 😕. Definations of Definations will be broken down into 🍰digestible🍰 terms so you know the reference to each word. 
+
 
 
 You will be taken to the web from developer point of view.
@@ -162,15 +168,16 @@ Keep Reading this document and you will reach on the step for using that softwar
 ## Development 101
 
 
-### Choose IDE you like
+### Choose IDE you like 
 IDE is an Advanced text-editor specifically built for writing code. IDE helps us with simple tools to ease the workflow and manage the code.
 
 ***Le Beginners**
 <img  src="https://user-images.githubusercontent.com/33034184/89989266-59566880-dc9e-11ea-838a-3a3575e45417.png"  alt="web dev 101"  title="Web dev"  width="250"  height="auto" />
 
 
-Most of us Visual Studio Code 
+Most of devs use Visual Studio Code 
 > **Install a IDE like Atom or Visual Studio Code**
+> **💡💡Start Downloading Now so VSCode Downloads while you are reading this.💡💡**
 > [https://code.visualstudio.com/]
 > [https://atom.io/](https://atom.io/)
 
@@ -202,7 +209,9 @@ or "how to run js on html button click"
 
 
 
-## Learn HTML CSS
+## Learn HTML CSS 
+
+**Keep Following this doc the Project 1 will help you learn basics**
 There are many resources to learn Basics you can find many on the web. 
 **Note that You should try building it on your personal PC so you can learn by doing**
 https://www.w3schools.com/html/](https://www.w3schools.com/html/)
@@ -210,23 +219,92 @@ https://www.w3schools.com/html/](https://www.w3schools.com/html/)
 [https://www.w3schools.com/html/html_scripts.asp](https://www.w3schools.com/html/html_scripts.asp)
 
 
-Understand HTML, CSS and JS Roles
+**Understand HTML, CSS and JS Roles**
 <img  src="https://qph.fs.quoracdn.net/main-qimg-d46874fe1c78ad54e201c24a81ed4a40"  alt="web dev 101"  title="Web dev"  width="400"  height="auto" />
 
 
-## Project #1 Alert!!!!
+### Project #1 Alert!!!!
 
-### Rollup your sleeves...Now You need to get started
+#### Rollup your sleeves... 💻Now You need to get started
 <img  src="https://user-images.githubusercontent.com/33034184/90006560-be1dbd00-dcb6-11ea-848a-1f0fec840d1e.png"  alt="web dev 101"  title="Web dev"  width="250"  height="auto" />
 
 
 ## Action Project #1 
+**🌎🌎 Remember to follow each walkthrough step**
+### Task 1 📖: Make Static Website and Deploy using Github Pages
 
-### Make Static Website and Deploy using Github Pages
+About this Task:
+**🔨Let's Break it Down🔨**
+- Make (Create Something)
+- **Static Website** : Static Website is a Website which is collection of html pages which do not communicate with any server. 
+Meaning : Static Website has no data processing or storage it is just to show case documents with beautiful or desired UI. [Only Client Side Web Pages only] 
+> Example : This Website you are on is a Static Website where you can visit using the github domain and see documentation to learn about Web and Web Development.
+- **Deploy** : Deployment is an Action where your code/work/project is uploaded on Public URL so every body on internet and your Website Domain can reach and view.
+- **Github Pages**: We will be using Github Pages to walk you through on how you can use Github to maintain your code base and host(host is open and available to use and Deploy is Action to host it site/code). 
+> What is Github? Github is a code management system in simple words which helps us store or code and code versions/history so we can store our old code even after code changes. 
+
+**How does Github do it?**
+Github does this using Git VCS (Version Control System is a Fundamental and essential component of any Software service or product) where code changes can be tracked and stored.
+So when we create Github Account it just provides us a cloud based system where we can store our code and collaborate with our Team.
+More about Git and Github will be explained as we procced.
+
+**Now you Know Github Pages are features in Github where along side maintaining the code you can also host HTML based Code on Github provided Domain.**
+> Example : This URL https://wilyerengineering.github.io/learn is a sub-domain of Github which can be created by enabling Github Pages from Github for specific project.
+
+**What is Sub-Domain ?**
+Sub-Domain is an extentsion of a domain. Like Some Companies have extensions to reach out to specific departments. 📠
+You must have seen such cool domains yourself while surfing the web.
+> Example : 🎙 https://artists.spotify.com/ 🎙 [Spotify has this domain for Music Artists and Looks very Professional]
+
+## **What are domains and How Can we buy domains?**
+
+**Domain names are simple words with .com, .org , .io [Latest on Trend] or .in [For India] as per country.** to easily find the relevent online service or website with out remembering each site's IP address which is like remembering phone numbers of all your contacts without naming them. We know the pain.
+
+**You can buy from https://in.godaddy.com/ which seems to be the best for this but there are others like Big Rock or Name Cheap**
+
+- You donot have to buy a domain to follow this guide but this is for helping you know how each major step is done when putting some business based project live. Currently we are using Github Pages to host and learn.
+
+#### Case Study: 
+Let's Assume you want to launch a web site which sells books online.[Just assume that nothing of this sort is already in the market(in market means on other websites) Just as a test run.]
+- You will need to to buy a domain name where people can buy your books and visit your site, so let's get started and find domain on GoDaddy.
+
+- You need to see that Domain Names have high value as easier it is to remember the costlier it will be.
+Premium Domains Refer to easy Domain Names. 
+Example 1: [Not Cheap to buy if you are just a startup and don't have such a price to pay.]
+![image](https://user-images.githubusercontent.com/33034184/93695150-363a9680-fb31-11ea-9bbb-6f90adfb0e88.png)
+
+### Memes Alert!
+<img  src="https://user-images.githubusercontent.com/33034184/93695210-fde78800-fb31-11ea-8cd5-b9b770d24435.png"  alt="web dev 101"  title="Web dev"  width="300"  height="auto" />
+
+<img  src="https://user-images.githubusercontent.com/33034184/93695202-df818c80-fb31-11ea-89cb-5ff42f6094e0.png"  alt="web dev 101"  title="Web dev"  width="300"  height="auto" />
+
+Example 2: **Now Let's Use Give our Startup a Good and Unique Name**
+
+- Domains names define the name of your business so make sure you use your skills to make a cool name. It is good idea to add One Common thing with an uncommon word to make a Domain name unique.
+- May be Tweaking with Characters here and there.
+**Here Chill is added to online Books and now it seems cool enough to buy such a domain name.**
+
+### **✨ In 90% of Cases Domain Names Define Business and How people remember it.✨**
+
+![image](https://user-images.githubusercontent.com/33034184/93695280-85cd9200-fb32-11ea-97ac-50d960d3edce.png)
+
+#### This is enough for you to know the value of domain and how sub-domains are booked.
+
+**Crux**: SubDomain Can only be created if you own the corresponding Domain name.
+like **buy.chillbooksonline.com** if you own **chillbooksonline.com** or **care.chillbooksonline.com** for customer care specific portal or pages.
+
+
+
+
+### ❄️Cool❄️ Now you will understand the following defination.❄️
+Github creates for us a sub domain with our username followed by github.io {github.io is another domain which is owned by GitHub, Inc.
+
 Using Github Pages and deploying your own static website will help you build your desired HTML CSS Template Based.
 
-You will use, learn and work on:
-- HTML
+
+
+👨‍💻 You will use, learn and work on 👨‍💻 :
+- HTML 
 - CSS (divs , classes , import css and fonts)
 - JS imports
 - Downloading a predesigned web page and customizing it (Bootstrap Templates in short)
@@ -235,22 +313,100 @@ You will use, learn and work on:
 - Deploy your first website on internet using Github Pages(Static Site)
 
 ### Step 1: Download Visual Studio Code (VSCode)  
-
+<img  src="https://user-images.githubusercontent.com/33034184/93700805-42742300-fb34-11ea-9acd-f95ba0891c7c.png"  alt="web dev 101"  title="Web dev"  width="300"  height="auto" />
 
 ### Step 2: Install an Extension named Live server in VSC
+- Open VSCode and Find The Extensions Icon from Side Nav Bar.
+<img  src="https://user-images.githubusercontent.com/33034184/93701328-7bac9300-fb34-11ea-9816-cb1de3a903e6.png"  alt="web dev 101"  title="Web dev"  width="300"  height="auto" />
+
+- Search "Live Server" or "LiveServer" to Find an Extension and Install The Extension
+<img  src="https://user-images.githubusercontent.com/33034184/93702359-cd551d80-fb34-11ea-8ac1-6cf7c324e90f.png"  alt="web dev 101"  title="Web dev"  width="100%"  height="auto" />
+
+- Make Sure Your VSCode's Bottom Tool Bar has 
+<img  src="https://user-images.githubusercontent.com/33034184/93703468-3d63a380-fb35-11ea-8cd2-d07e4efa8864.png"  alt="web dev 101"  title="Web dev"  width="100%"  height="auto" />
+or 
+<img  src="https://user-images.githubusercontent.com/33034184/93704917-135eb100-fb36-11ea-837e-5b84dcf67aba.png"  alt="web dev 101"  title="Web dev"  width="100%"  height="auto" />
+
 
 ### Step 3: Make your project Dir
 It is recommended that you make a Directory/Folder on your system which you will only use for development related work like "DevelopmentProjects", "Coding" or any cool name you wish.
 Now understand that each one of your project will have a folder dedicated to it. So when you do this project make a folder named whatever you like.
 
-### Step 4: Open the Folder in VSCode and create a hello world HTML File.
+**Open**
+![image](https://user-images.githubusercontent.com/33034184/93705037-8583c580-fb37-11ea-96ab-b4d7ca720a40.png)
 
-### Step 5:Now Learn how to open an HTML Page in browser.
+**Create Folder**
+![image](https://user-images.githubusercontent.com/33034184/93705050-9af8ef80-fb37-11ea-9264-7aa8593141b9.png)
 
-There are 2 ways to open your html page in browser
-Run The live Reload server or paste path in web browser
+**Select 'WilyerLearnProjects' or The folder you just created**
+![image](https://user-images.githubusercontent.com/33034184/93705075-cf6cab80-fb37-11ea-958e-daa995d7ae1b.png)
 
-### Step 6: Now Download the Pre-designed Bootstrap Template
+**Create New File and name it index.html**
+![image](https://user-images.githubusercontent.com/33034184/93705111-37bb8d00-fb38-11ea-8d07-51d4444aaccc.png)
+
+**Write some Simple HTML to index.html**
+In the following Case we have used simple H2 Tag `<h2> </h2>` and Added Desired Text
+
+#### Don't Care about the syntax yet. Just follow along. **This is more of a Environment Setup Part**
+![image](https://user-images.githubusercontent.com/33034184/93705136-781b0b00-fb38-11ea-94f3-63da14b7b2ce.png)
+
+**Right Click and Find Option to `Open File with Live Server` Select and You will see the browser Window open automatically**
+
+![image](https://user-images.githubusercontent.com/33034184/93705153-9254e900-fb38-11ea-978f-90ea849f3cae.png)
+
+If Browser Window does not open then try to use this URL : http://127.0.0.1:5500/ [This will be explained in coming section] First just check it and run it for yourself.
+**Note that the value after :(colon) is Port 5500 and same value can be seen in bottom-right section of Tool bar so use the value which is being shown on your system**
+http://127.0.0.1:YOUR_VALUE from Photo(5500)
+Final URL : http://127.0.0.1:5500/
+![image](https://user-images.githubusercontent.com/33034184/93706543-fb425e00-fb44-11ea-8c6f-7451d4326e8a.png)
+
+> ### **Now Let's See what is the meaning of 👉 http://127.0.0.1:5500/**
+
+#### **Let's 🔨Break🔨 it Down**
+
+- http:// 👉 Hyper Text Transfer Protocol 
+![image](https://user-images.githubusercontent.com/33034184/93706740-04342f00-fb47-11ea-9755-232ffd2a3625.png)
+#### 🔥Bonus ▶️Video▶️ To Understand it as it will be useful. 
+{% youtuber video hExRDVZHhig %}
+ 
+{% endyoutuber %}
+
+
+- 127.0.0.1 👉  is called LocalHost IP Address. `localhost`. Local hoat as defined in intro is a local address of your machine so you can run tests and develop by simulating an original IP Address that is liked with Domains.
+
+- :5500 👉 is a Port Number where the Operating System runs specific service.
+
+
+### Output 
+![image](https://user-images.githubusercontent.com/33034184/93705212-098a7d00-fb39-11ea-9736-1e631cff534f.png)
+
+
+### Step 4: Update HTML Page `index.html` with following code.
+{% codepen wilyerofficial bGpmJaB light html,result 300 %}
+
+Example
+![image](https://user-images.githubusercontent.com/33034184/93705641-689dc100-fb3c-11ea-8edd-023cf219de14.png)
+
+
+
+### Step 5:Learn HTML Basics If you want.
+
+**Following Video of 30 minutes can help you grab the basics of HTML and all the available Tags that you can use**
+
+You can skip this if you know a little about HTML Already.
+
+{% youtuber video 88PXJAA6szs %}
+ 
+{% endyoutuber %}
+
+
+### 🚧🚧🚧🚧  Working on Document Guide from this step onwards 🚧🚧🚧🚧
+
+
+#### Step 6: Now Download the Pre-designed Bootstrap Template
+
+
+
 #### What is Bootstrap Template
 It is like someone has already done basic UI design so you can build your website elements using that.
 

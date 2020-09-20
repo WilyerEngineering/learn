@@ -1,38 +1,36 @@
 {
-  "logo": {
-    "text": "Wilyer Learning Docs",
-    "type": "link",
-    "path": ""
-  },
-  "main": [
-  
+  "logo": { "text": "Wilyer Learning Docs", "type": "link", "path": "" },
+  "main":
+    [
+      { "text": "INTRODUCTION", "type": "label" },
       {
-      "text": "API Basics",
-      "type": "label",
-"children": [
-    {
-      "text": "Instagram API Project",
-      "type": "link",
-      "path": "api/index.html"
-
-    },
-    ]
-    }
-    ,
-
-    {
-      "text": "WebDev 101",
-      "type": "label",
-"children": [
-   {
-      "text": "Web Development 101",
-      "type": "link",
-      "path": "webdev/index.html"
-    }
-    ]
-    }
-    
-   
-   
-  ]
+        "text": "How Internet Works for Developers",
+        "type": "link",
+        "path": "how-internet-works/",
+      },
+      {
+        "text": "WebDev 101",
+        "type": "label",
+        "children":
+          [
+            {
+              "text": "Web Development 101",
+              "type": "link",
+              "path": "webdev/index.html",
+            },
+          ],
+      },
+      {
+        "text": "API Basics",
+        "type": "label",
+        "children":
+          [
+            {
+              "text": "Instagram API Project",
+              "type": "link",
+              "path": "api/index.html",
+            },
+          ],
+      },
+    ],
 }
