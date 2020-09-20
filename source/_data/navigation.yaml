@@ -1,17 +1,12 @@
-
 {
   "logo": { "text": "Wilyer Learning Docs", "type": "link", "path": "" },
   "main":
     [
+      { "text": "INTRODUCTION", "type": "label" },
       {
-        "text": "INTRODUCTION",
-        "type": "label",
-      }
-        ,
-       {
         "text": "How Internet Works for Developers",
         "type": "link",
-         "path": "how-internet-works/",
+        "path": "how-internet-works/",
       },
       {
         "text": "WebDev 101",
